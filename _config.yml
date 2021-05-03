@@ -12,7 +12,9 @@ header:
  title: "Photography"
  subtitle: "by Kevin Yee"
 footer:
- name: "Hey there, my name is Kevin"
+ name: "Hello, I'm Kevin"
+ bio: "I'm a photographer for fun"
+ github: "Want a website like this for yourself for free? Fork <a href=\"https://github.com/ramswaroop/photography\">this repo</a>"
 web_design: "AJ"
 social_urls:
   linkedin: "https://www.linkedin.com/in/kevinyee1"
